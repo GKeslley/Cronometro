@@ -1,0 +1,46 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  color: white;
+  text-decoration: none;
+}
+
+body {
+  background: #111;
+  text-align: center;
+  display: grid;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 120px;
+}
+
+button {
+  border: none;
+  outline: none;
+  background: none;
+  padding: 15px 25px;
+  font-size: 1.5rem;
+}
+
+.timer {
+  font-size: 5rem;
+}
+
+.timer span {
+  display: block;
+}
+
+.menu ul {
+  justify-content: center;
+  display: flex;
+  font-size: 2rem;
+  gap: 60px;
+}
+
+.menu li {
+  border: 2px solid white;
+  border-radius: 6px;
+}
