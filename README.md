@@ -1,2 +1,2 @@
-# Cron-metro
+# Cronometro
 Cronômetro básico feito com HTML/CSS e JavaScript
